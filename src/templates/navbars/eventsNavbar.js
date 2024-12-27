@@ -21,8 +21,8 @@ const navbar = () => {
                     <li><Link to="/about">
                         About
                     </Link></li>
-                    <li><Link to="/hobbies">
-                        Hobbies
+                    <li><Link to="/events" id="active">
+                        Events
                     </Link></li>
                     <li><Link to="/terminal">
                         Log In

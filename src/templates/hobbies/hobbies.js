@@ -40,6 +40,7 @@ const hobbies = () => {
                             <input type='submit' value='Senden'/>
                         </form>
                     </div>
+
                 </div>
                 {hobbies.map(p => (
                     <Hobby hobby={p}/>

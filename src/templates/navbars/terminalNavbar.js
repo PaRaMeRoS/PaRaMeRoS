@@ -28,7 +28,7 @@ const navbar = () => {
                         Events
                     </Link></li>
                     <li><Link to="/hobbies/create">
-                        Hobbies
+                        Add User
                     </Link></li>
                     <li><button className="a" onClick={handleLogout}>
                         Logout

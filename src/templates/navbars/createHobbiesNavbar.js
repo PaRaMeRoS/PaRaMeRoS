@@ -22,7 +22,7 @@ const navbar = () => {
                 </div>
                 <ul className="nav0">
                     <li><Link to="/terminal">
-                        Terminal
+                        Team
                     </Link></li>
                     <li><Link to="/events/create">
                         Events

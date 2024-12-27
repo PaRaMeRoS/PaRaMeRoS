@@ -22,22 +22,21 @@ const home = () => {
                             <Link to="/events">Events</Link>
                         </h3>
                         <p>
-                            In diesem Abschnitt bieten wir Ihnen die Möglichkeit, die neuesten Events
-                            und bedeutenden Anmerkungen des PaRaMeRoS Teams einzusehen. Hier finden Sie
+                            In diesem Abschnitt bieten wir Ihnen die Möglichkeit, die neuesten Erfolge des PaRaMeRoS Teams einzusehen. Hier finden Sie
                             nicht nur Informationen zu den aktuellen Veranstaltungen, sondern auch
-                            wichtige Hinweise zu verschiedenen Themen wie Erfolge, Fortschritt und
-                            ähnliche Belange des Teams. Dieser Bereich dient als umfassende
-                            Informationsquelle, um Sie nicht nur über die laufenden Ereignisse,
-                            sondern auch über die allgemeine Entwicklung des Teams auf dem Laufenden
-                            zu halten. Tauchen Sie ein und erfahren Sie mehr über unsere Errungenschaften,
+                            wichtige Hinweise zu verschiedenen Themen wie Fortschritt und
+                            ähnliche Inforamtionen des Teams. Dieser Bereich hält Sie über die laufenden Ereignisse
+                            und über die allgemeine Entwicklung des Teams auf dem Laufenden.
+			    <br/>
+                            Erfahren Sie mehr über unsere Errungenschaften,
                             den fortschreitenden Entwicklungsprozess und andere relevante Aspekte, die einen
-                            Einblick in die spannende Welt des PaRaMeRoS Teams gewähren.<br/><br/>
+                            Einblick in das PaRaMeRoS Team gewähren:<br/><br/>
                             <Link to="/events">Link zu Events</Link>
                         </p>
                     </div>
                     <img
                         src={Raum}
-                        alt="TEST"
+                        alt="IT-Raum an der PRMRS"
                     />
                 </div>
                 <div className="info">
@@ -46,24 +45,24 @@ const home = () => {
                             About us
                         </h3>
                         <p>
-                            Diese <Link to="https://github.com/CoolerTyp99/PaRaMeRoS-Frontend">Website </Link>
-                            ist vom First Lego League Team „PaRaMeRoS“ der Pater Rupert Mayer Realschule.
+                            Diese <Link to="https://github.com/DavidFrings/PaRaMeRoS-Frontend">Website </Link>
+                            ist vom First Lego League Team „PaRaMeRoS“ der Pater Rupert Mayer Realschule. <br/>
                             Unser Team besteht aus einer Gruppe von engagierten Schülern, die sich für Robotik und
                             Technologie begeistern.
                             Wir haben viel gearbeitet, um unser Wissen und unsere Fähigkeiten zu erweitern und uns auf
                             die Wettbewerbe vorzubereiten.
                             In den letzten Jahren hat die Pater Rupert Mayer Realschule schon mit vielen Schülern an der
                             First Lego League teilgenommen und haben viele Erfolge erzielt.
-                            Unsere Vorgänger haben bereits viele Preise gewonnen und Erfahrungen gesammelt. <Link
-                            to="/about#about">Mehr</Link>
+                            Unsere Vorgänger haben bereits viele Preise gewonnen und Erfahrungen gesammelt. <br/><br/>
+			    <Link to="/about">Erfahren Sie mehr über unsere Vorgänger</Link>
                         </p>
                     </div>
                     <img
                         src={About}
-                        alt="Bild vom Team"
+                        alt="Bild vom Team am arbeiten"
                     />
                 </div>
-                <div className="info">
+                {/*<div className="info">
                     <div className="content">
                         <h3 id="pro">
                             Unser eigenes Betriebssystem & eigene Programmiersprache
@@ -145,7 +144,7 @@ const home = () => {
                 <div className="info">
                     <div className="content">
                         <h3>
-                            Login / Verwalung unsere KI
+                            Login / Verwaltung unserer KI
                         </h3>
                         <p>
                             Unser Login-Terminal bietet Teammitgliedern nicht nur die Möglichkeit, sich einzuloggen,
@@ -169,11 +168,11 @@ const home = () => {
                         src={Login}
                         alt="Terminal"
                     />
-                </div>
+                </div>*/}
                 <div className="info">
                     <div className="content">
                         <h3>
-                            Unser Run vom letzeten Sasion
+                            Unser Run von der Saison 2022/23
                         </h3>
                         <p>
                             Die Roboterwettbewerbe finden auf regionaler, nationaler und internationaler Ebene statt,

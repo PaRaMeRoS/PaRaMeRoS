@@ -22,13 +22,13 @@ const navbar = () => {
                 </div>
                 <ul className="nav0">
                     <li><Link to="/terminal">
-                        Terminal
+                        Team
                     </Link></li>
                     <li><Link to="/events/create" id="active">
                         Events
                     </Link></li>
                     <li><Link to="/hobbies/create">
-                        Hobbies
+                        Add User
                     </Link></li>
                     <li><button className="a" onClick={handleLogout}>
                         Logout
