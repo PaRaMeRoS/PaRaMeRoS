@@ -19,7 +19,7 @@ const home = () => {
                 <div className="info">
                     <div className="content">
                         <h3>
-                            <Link to="/events">LALALALLALALA</Link>
+                            <Link to="/events">Events</Link>
                         </h3>
                         <p>
                             In diesem Abschnitt bieten wir Ihnen die Möglichkeit, die neuesten Erfolge des PaRaMeRoS Teams einzusehen. Hier finden Sie
