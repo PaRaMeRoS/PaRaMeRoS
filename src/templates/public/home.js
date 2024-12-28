@@ -10,7 +10,7 @@ import Login            from "../../media/login.png";
 import                       "../../css/home.css";
 
 const home = () => {
-    window.scroll(100,0);
+    window.scroll(0,0);
 
     return (
         <div className="home">
@@ -19,7 +19,7 @@ const home = () => {
                 <div className="info">
                     <div className="content">
                         <h3>
-                            <Link to="/events">TEST</Link>
+                            <Link to="/events">LALALALLALALA</Link>
                         </h3>
                         <p>
                             In diesem Abschnitt bieten wir Ihnen die Möglichkeit, die neuesten Erfolge des PaRaMeRoS Teams einzusehen. Hier finden Sie
