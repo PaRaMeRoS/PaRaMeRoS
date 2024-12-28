@@ -4,6 +4,3 @@
 ===
 [Python](https://github.com/PaRaMeRoS/PaRaMeRoS-Python)
 ===
-
-Coming Soon
-===
