@@ -1,4 +1,4 @@
-# Projektübersicht: Bearbeitung der Seiten unter [`src/templates`](https://github.com/PaRaMeRoS/PaRaMeRoS/src/templates)
+# Projektübersicht: Bearbeitung der Seiten unter [`src/templates`](https://github.com/PaRaMeRoS/PaRaMeRoS/tree/main/src/templates)
 
 Willkommen! Dieses Dokument gibt einen Überblick über die Ordnerstruktur im Verzeichnis unseres Projekts. Das Projekt basiert auf dem **MERN-Stack** (MongoDB, Express.js, React, Node.js) und ist modular aufgebaut.
 
