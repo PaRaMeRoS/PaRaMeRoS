@@ -50,7 +50,7 @@ Der **wichtigste** Ordner des Projekts! Hier finden sich die Templates für **ö
 
 ### 1. **Importe**
 - **Navbar** und **Footer**: Diese werden aus den jeweiligen Ordnern `navbars` und `footers` eingebunden.
-- **Bilder und Videos**: Bilder (`about.png`, `coaches.png`, etc.) und ein Video (`roboter.mkv`) werden aus dem `media`-Verzeichnis importiert.
+- **Bilder und Videos**: Bilder (`about.webp`, `coaches.webp`, etc.) und ein Video (`roboter.mkv`) werden aus dem `media`-Verzeichnis importiert.
 - **CSS-Datei**: Das Styling erfolgt über die Datei `home.css`.
 
 ### 2. **Komponentenaufbau**

@@ -1,5 +1,5 @@
 import { Link }         from "react-router-dom";
-import Logo             from "../../media/logo.png";
+import Logo             from "../../media/logo.webp";
 import BackgroundVideo  from "../../media/intro.mp4";
 import                       "../../css/navbar.css";
 

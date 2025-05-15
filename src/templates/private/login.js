@@ -3,7 +3,7 @@ import { useState }     from "react";
 import axios            from "axios";
 import Navbar           from "../navbars/loginNavbar";
 import Footer           from "../footers/loginFooter";
-import Logo             from "../../media/logo.png";
+import Logo             from "../../media/logo.webp";
 import                       "../../css/login.css";
 
 const login = () => {

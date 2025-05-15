@@ -1,14 +1,14 @@
 import Navbar           from "../navbars/aboutNavbar";
 import Footer           from "../footers/footer";
-import Bild00		from "../../media/about.png";
-import Bild0            from "../../media/coaches.png";
-import Bild1            from "../../media/2017-18.png";
-import Bild2            from "../../media/2019-20.png";
-import Bild3            from "../../media/2020-21.png";
-import Bild4            from "../../media/2021-22.png";
-import Bild5            from "../../media/2022-23.png";
-import Bild6            from "../../media/2023-24.png";
-import Bild7            from "../../media/2024-25.png";
+import Bild00		from "../../media/about.webp";
+import Bild0            from "../../media/coaches.webp";
+import Bild1            from "../../media/2017-18.webp";
+import Bild2            from "../../media/2019-20.webp";
+import Bild3            from "../../media/2020-21.webp";
+import Bild4            from "../../media/2021-22.webp";
+import Bild5            from "../../media/2022-23.webp";
+import Bild6            from "../../media/2023-24.webp";
+import Bild7            from "../../media/2024-25.webp";
 import Roboter          from "../../media/roboter.mkv";
 import                       "../../css/home.css";
 

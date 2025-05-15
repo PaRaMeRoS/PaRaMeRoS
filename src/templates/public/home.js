@@ -2,11 +2,11 @@ import { Link }         from "react-router-dom";
 import Navbar           from "../navbars/homeNavbar";
 import Footer           from "../footers/footer";
 import Run              from "../../media/run.mp4";
-import Raum             from "../../media/raum.png";
-import About            from "../../media/about.png";
-import Ai               from "../../media/ai.png"
-import Hobbies          from "../../media/hobbies.png";
-import Login            from "../../media/login.png";
+import Raum             from "../../media/raum.webp";
+import About            from "../../media/about.webp";
+import Ai               from "../../media/ai.webp"
+import Hobbies          from "../../media/hobbies.webp";
+import Login            from "../../media/login.webp";
 import                       "../../css/home.css";
 
 const home = () => {
